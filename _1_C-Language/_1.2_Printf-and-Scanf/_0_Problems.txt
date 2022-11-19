@@ -1,0 +1,14 @@
+01. Write a program to calculate average of three integers. Numbers are given by user.
+02. Write a program to calculate circumference of a circle.
+03. Write a program to calculate Simple Interest.
+04. Write a program to calculate volume of a cuboid.
+05. Write a program to ask user about the cost price and selling price of banana per dozen. Calculate the profit or loss earned upon selling 25 bananas.
+06. Write a program to input a character from the user and print its ASCII code.
+07. Write a program to input a character from the user and print its ASCII code.
+08. Write a program to input three characters from the user and display characters with their corresponding ASCII code.
+09. Write a program to take date as an inout in below given format and convert the date format and display the result as given below.
+        User Input date format - "DD/MM/YYYY" (27/11/2022)
+        Output format - "Day - DD, Month - MM, Year - YYYY" (Day - 27, Month - 07, Year - 2022)
+10. Write a program to take time as an inout in below given format and convert the time format and display the result as given below.
+        User Input time format - "HH:MM"
+        Output format - "HH hour and MM Minute"
