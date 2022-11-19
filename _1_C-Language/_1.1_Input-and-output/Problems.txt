@@ -1,0 +1,11 @@
+1. Write a program to print Hello Students on the screen.
+2. Write a program to print Hello in the first line and Students in the second line.
+3. Write a program to print "MySirG" on the screen.
+4. Write a program to print \n on the screen.
+5. Write a program to print \r on the screen.
+6. Write a program to print "Teacher's Day" on the screen.
+7. Write a program to calculate sum of two integers. Number are taken from the user through keyboard.
+8. Write a program to calculate square of given integer. Number is taken from the user through keyboard.
+9. Write a program to calculate area of the rectangle. Input appropriate data from the user.
+10. Write a program to find the area of the circle. Take radius of circle from user as input and print the result in below format.
+    OUTPUT: "Area of the circle is X having radius R". Replace X with area and R with radius. 
