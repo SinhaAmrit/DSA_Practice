@@ -1,0 +1,11 @@
+01. Write a program to calculate size of a character constant.
+02. Write a program to calculate size of a real constant.
+03. Write a program with one char type variable. Assign 'A' in the variable.
+    Now change the value of variable from 'A' to 'B' using increment operator.
+04. Write a program to print unit digit of a given number.
+05. Write a program to print a given number without its last digit.
+06. Write a program to swap values of two int variables.
+07. Write a program to swap values of two int variables without using a third variable.
+08. Write a program to swap values of two int variables without using third variable and without using +, - operators.
+09. Write a program to swap values of two int variables without using third variable and arithmetic operators.
+10. Write a program to swap values of two int variables in single line arithmetic expression.
